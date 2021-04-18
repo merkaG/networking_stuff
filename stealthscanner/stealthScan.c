@@ -84,7 +84,13 @@
  *
  *        Examples: 20-26,113
  *                  20-100,113-150,6000,6660-6669
- * 		  
+ * 
+ * 7. (v1.33) @date: 18/04/2021
+ *      minor fixes to original version:
+ * 		- add a makefile
+ * 		- add headers
+ * 	 TODO: program crashes when give_info() is activated ==> investigate
+ *
  * PLANNED: (when I have time for this)
  * ------------------------------------
  * (v2.x) - Multiple flag combination selections, smart algorithm to point
